@@ -1,6 +1,6 @@
 # Brawl Vault Tools
 
-Tools for retrieving data from https://forums.kc-mm.com/
+Tools for retrieving Brawl Vault entries from https://forums.kc-mm.com/
 
 ## Overview
 
